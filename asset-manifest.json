@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stripe-React/static/css/main.29e09b9a.chunk.css",
+    "main.js": "/stripe-React/static/js/main.d4b1020c.chunk.js",
+    "main.js.map": "/stripe-React/static/js/main.d4b1020c.chunk.js.map",
+    "runtime-main.js": "/stripe-React/static/js/runtime-main.9424eff5.js",
+    "runtime-main.js.map": "/stripe-React/static/js/runtime-main.9424eff5.js.map",
+    "static/js/2.4b19f180.chunk.js": "/stripe-React/static/js/2.4b19f180.chunk.js",
+    "static/js/2.4b19f180.chunk.js.map": "/stripe-React/static/js/2.4b19f180.chunk.js.map",
+    "index.html": "/stripe-React/index.html",
+    "static/css/main.29e09b9a.chunk.css.map": "/stripe-React/static/css/main.29e09b9a.chunk.css.map",
+    "static/js/2.4b19f180.chunk.js.LICENSE.txt": "/stripe-React/static/js/2.4b19f180.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/stripe-React/static/media/hero.acf1e00e.svg",
+    "static/media/logo.6ad422bb.svg": "/stripe-React/static/media/logo.6ad422bb.svg",
+    "static/media/phone.94a7a4fe.svg": "/stripe-React/static/media/phone.94a7a4fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9424eff5.js",
+    "static/js/2.4b19f180.chunk.js",
+    "static/css/main.29e09b9a.chunk.css",
+    "static/js/main.d4b1020c.chunk.js"
+  ]
+}
